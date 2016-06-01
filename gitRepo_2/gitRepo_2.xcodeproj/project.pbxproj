@@ -13,7 +13,6 @@
 		DF451DD61CFECA41009DAB5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF451DD41CFECA41009DAB5B /* Main.storyboard */; };
 		DF451DD81CFECA41009DAB5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF451DD71CFECA41009DAB5B /* Assets.xcassets */; };
 		DF451DDB1CFECA41009DAB5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF451DD91CFECA41009DAB5B /* LaunchScreen.storyboard */; };
-		DF451DE41CFECA57009DAB5B /* 2_1.m in Sources */ = {isa = PBXBuildFile; fileRef = DF451DE31CFECA57009DAB5B /* 2_1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +26,6 @@
 		DF451DD71CFECA41009DAB5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF451DDA1CFECA41009DAB5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF451DDC1CFECA41009DAB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DF451DE21CFECA57009DAB5B /* 2_1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = 2_1.h; path = ../../2_1.h; sourceTree = "<group>"; };
-		DF451DE31CFECA57009DAB5B /* 2_1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = 2_1.m; path = ../../2_1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +58,6 @@
 		DF451DCA1CFECA40009DAB5B /* gitRepo_2 */ = {
 			isa = PBXGroup;
 			children = (
-				DF451DE21CFECA57009DAB5B /* 2_1.h */,
-				DF451DE31CFECA57009DAB5B /* 2_1.m */,
 				DF451DCE1CFECA41009DAB5B /* AppDelegate.h */,
 				DF451DCF1CFECA41009DAB5B /* AppDelegate.m */,
 				DF451DD11CFECA41009DAB5B /* ViewController.h */,
@@ -156,7 +151,6 @@
 			files = (
 				DF451DD31CFECA41009DAB5B /* ViewController.m in Sources */,
 				DF451DD01CFECA41009DAB5B /* AppDelegate.m in Sources */,
-				DF451DE41CFECA57009DAB5B /* 2_1.m in Sources */,
 				DF451DCD1CFECA40009DAB5B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
